@@ -1,0 +1,1 @@
+<?php mkdir('app', 0755, true); echo "app created\n"; ?>

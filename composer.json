@@ -1,0 +1,13 @@
+{
+    "name": "servicio-fotografia/app",
+    "description": "Photography Service Application",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "App\\": "app/"
+        }
+    },
+    "require": {
+        "php": ">=7.4"
+    }
+}
